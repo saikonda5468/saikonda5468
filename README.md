@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I find patterns in data, just like in my fitness routines!
 
 <p align="center">
-    <a href="https://github.com/jayanth122/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayanth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayanth122&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/saikonda5468/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Krishna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saikonda5468&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -28,8 +28,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/jayanth122/github-readme-stats"><img alt="Jayanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayanth122&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/jayanth122/github-readme-stats"><img alt="Jayanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth122&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/saikonda5468/github-readme-stats"><img alt="Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saikonda5468&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/saikonda5468/github-readme-stats"><img alt="Krishna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikonda5468&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -39,9 +39,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href="https://www.linkedin.com/in/naga-jayanth-chennupati-146296169/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://twitter.com/JChennupati"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://www.instagram.com/jayanth_chennupati/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="www.linkedin.com/in/krishna-tarun-saikonda-95a108168"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/KrishnaTarun5"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://www.instagram.com/_krishna_tarun/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
